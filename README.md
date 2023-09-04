@@ -1,5 +1,6 @@
 # Python-pptxScanner
 A Prototype of ppt structure Scanner. <br>
+Returning the Slide / Shape / Para / run Index<br>
 Simple tool for using pypptx. <br>
 More features will be added if I have time to make.<br>
 
