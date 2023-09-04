@@ -1,9 +1,10 @@
 # Python-pptxScanner
-A Prototype of ppt structure Scanner. 
-Simple tool for using pypptx. 
-More features will be added if I have time to make.
+<h1>Introduction\n</h1>
+A Prototype of ppt structure Scanner. \n
+Simple tool for using pypptx. \n
+More features will be added if I have time to make.\n
 
-#Usage
-Just Compile the "Main.pyw"
-or
-Install the .exe from release page
+<h1>Usage\n</h1>
+Just Compile the "Main.pyw"\n
+or\n
+Install the .exe from release page\n
